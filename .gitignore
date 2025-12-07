@@ -1,0 +1,52 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.env
+.venv
+venv/
+ENV/
+build/
+dist/
+
+# -------------------------
+# Streamlit cache
+# -------------------------
+.streamlit/
+
+# -------------------------
+# IDE / Editor
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# RAG Project – Large or Generated Files
+# -------------------------
+audios/
+videos/
+jsons/
+output.json
+embeddings.joblib
+prompt.txt
+response.txt
+
+# Generated intermediate files
+*.mp3
+*.json
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
