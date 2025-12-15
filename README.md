@@ -1,5 +1,5 @@
 
-# **RAG-Based RAG-Powered Course Navigator & Topic Guide (Local-First, Privacy-Preserved)**
+# **RAG-Based Course Navigator & Topic Guide (Local-First, Privacy-Preserved)**
 
 This project is a **local-first Retrieval-Augmented Generation (RAG) teaching assistant** built using **Ollama**, **Llama 3.2**, **bge-m3 embeddings**, **Whisper transcription**, and **Streamlit UI**.
 It allows users to ask questions based on a collection of educational videos.
